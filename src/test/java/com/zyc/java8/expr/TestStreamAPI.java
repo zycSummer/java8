@@ -1,6 +1,6 @@
 package com.zyc.java8.expr;
 
-import com.zyc.java8.Employee;
+import com.zyc.java8.entity.Employee;
 import org.junit.Test;
 
 import java.util.Arrays;

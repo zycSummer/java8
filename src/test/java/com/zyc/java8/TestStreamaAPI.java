@@ -4,6 +4,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+import com.zyc.java8.entity.Employee;
 import org.junit.Test;
 
 import javax.xml.transform.Source;

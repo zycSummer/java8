@@ -1,5 +1,6 @@
 package com.zyc.java8;
 
+import com.zyc.java8.entity.Employee;
 import com.zyc.java8.inter.MyPredicate;
 import com.zyc.java8.inter.impl.FilterEmployeeForAge;
 import com.zyc.java8.inter.impl.FilterEmployeeForSalary;
@@ -15,7 +16,7 @@ import java.util.*;
  * Time: 17:10
  * Description:
  */
-public class TestLambda {
+public class TestLambda1 {
     // 原来的匿名内部类
     @Test
     public void test1() {

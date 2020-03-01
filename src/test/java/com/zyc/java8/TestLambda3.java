@@ -1,5 +1,6 @@
 package com.zyc.java8;
 
+import com.zyc.java8.entity.Employee;
 import com.zyc.java8.inter.MyFunction;
 import com.zyc.java8.inter.MyFunction2;
 import org.junit.Test;

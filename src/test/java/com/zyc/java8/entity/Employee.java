@@ -1,4 +1,4 @@
-package com.zyc.java8;
+package com.zyc.java8.entity;
 
 public class Employee {
 

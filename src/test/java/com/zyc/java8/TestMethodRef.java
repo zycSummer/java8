@@ -8,6 +8,7 @@ import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Supplier;
 
+import com.zyc.java8.entity.Employee;
 import org.junit.Test;
 
 /*
